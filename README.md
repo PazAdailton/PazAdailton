@@ -1,7 +1,7 @@
 # Olá, sou o Adailton 
 
 ## Sobre mim
-- 💻Support Analist @ [Empresa]
+- 💻Support Analist @ [Bus2]
 - 🎓 Bacharel em Sistemas de Informação(5º semestre)
 - 🌐 Apaixonado(a) por desenvolvimento web
 - 🚀 Adoro um bom desafio
