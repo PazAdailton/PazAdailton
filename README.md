@@ -3,7 +3,7 @@
 ## Sobre mim
 - 💻Support Analist @ [Bus2]
 - 🎓 Bacharel em Sistemas de Informação(5º semestre)
-- 🌐 Apaixonado(a) por desenvolvimento web
+- 🌐 Apaixonado por desenvolvimento web
 - 🚀 Adoro um bom desafio
 
 ## Contato
