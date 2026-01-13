@@ -1,14 +1,14 @@
 # Olá, sou o Adailton 
 
 ## Sobre mim
-- 💻Support Analist @ [Bus2]
-- 🎓 Bacharel em Sistemas de Informação(5º semestre)
+- 💻Test Analyst @ [Bus2]
+- 🎓 Bacharel em Sistemas de Informação(7º semestre)
 - 🌐 Apaixonado por desenvolvimento web
 - 🚀 Adoro um bom desafio
 
 ## Contato
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/adailton-paz-844a0329a/)
-- Email:[(mailto:adailtonpazsk@gmail.com)
+- Email:[(mailto:paazadailtonsk@gmail.com)
 ## Tecnologias que uso
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
